@@ -38,7 +38,7 @@ follow this article: https://www.atlassian.com/git/tutorials/saving-changes/git-
 git commit -m "commit message"
 '''
 
-and then again these 2 commands:
+(if this happens) then again these 2 commands:
 1. github config --global user.name 
                                     "Earlier Given Name"
 2. github config --global user.email
